@@ -1,2 +1,2 @@
 # Casino-s-Loigon12
-Menu de Juegos de azar mediante la consola hecho en Python para mi curso de PROGRAMACIÓN DE COMPUTADORES en la universidad. Aquí desarrolle varios Scripts utilizando los conceptos aprendidos en mi aprendizaje con el lenguaje de programación Python.
+Este proyecto fue desarrollado como parte de mi curso de Programación de Computadores en la universidad. Se trata de un menú interactivo en la consola que ofrece distintos juegos de azar, implementados mediante scripts en Python. A través de este desarrollo, puse en práctica los conceptos aprendidos en mi formación, explorando la lógica de programación y la estructura del lenguaje para crear experiencias dinámicas y entretenidas.
